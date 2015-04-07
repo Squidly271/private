@@ -3,7 +3,7 @@
 # Script to check all md5's in a disk (passthrough as command parameter)
 
 # CONFIG="/etc/checkmd5.conf"
-FOLDER="$(cat "$CONFIG")"
+# FOLDER="$(cat "$CONFIG")"
 # echo $1
 
 # exit
