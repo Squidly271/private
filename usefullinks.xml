@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/UsefulLinks/master/useful_links.plg</PluginURL>
+<PluginAuthor>Squid</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+  <Name>Useful Links</Name>
+  <Description>
+    This plugin displays some useful links for operating / diagnosing any issues with your unRaid server
+  </Description>
+  <Support>http://lime-technology.com/forum/index.php?topic=39259.0</Support>
+  <PluginURL>blah</PluginURL>
+  <Banner>https://raw.githubusercontent.com/binhex/docker-templates/master/binhex/images/deluge-banner.png</Banner>
+  <Icon>https://raw.githubusercontent.com/binhex/docker-templates/master/binhex/images/deluge-icon.png</Icon>
+</Containers>
