@@ -7,6 +7,8 @@
 <Category>Other:</Category>
 <Name>Application Categorizer</Name>
 <Description>
+This is a test repository.  There is an update to Community Applications that will not display this app.  DO NOT INSTALL this.  If you see this, update CA to the latest version.
+
 This plugin is for application developers ONLY.  It will create the category entries for application templates so that Community Applications can display the apps correctly
 </Description>
 <Support>http://lime-technology.com/forum/index.php?topic=40111.0</Support>
